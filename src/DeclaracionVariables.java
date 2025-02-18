@@ -29,5 +29,15 @@ public class DeclaracionVariables {
         final double PI = 3.14159;
 
         System.out.println("El valor de la variable final PI es: " + PI);
+
+        /*Operadores aritmeticos
+        * + suma, - resta, * multiplicación,/ division,
+        *
+        * Operadores de condición
+        * < menor que, > mayor que, <= menor igual que, >= mayor igual que, == igual de, != distinto de
+        *
+        * Operadores logios o de desición
+        * && Y logico
+        * || O logico*/
     }
 }
