@@ -21,5 +21,13 @@ public class DeclaracionVariables {
         numero1 = 8;
 
         System.out.println("El nuevo valor de la variable numero1 es: " + numero1);
+
+
+        /* final tipo_dato nombre_variable
+        *  si una variable comienza con la palabra final, significa que su valor no varia por ejemplo*/
+
+        final double PI = 3.14159;
+
+        System.out.println("El valor de la variable final PI es: " + PI);
     }
 }
